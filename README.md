@@ -21,7 +21,7 @@ The program then converts the temperature into the **other two units** and displ
 - Displayed the converted values to the user  
 - Handled invalid unit inputs  
 
-## 🔢 Example Output
+##  Example Output
 If user enters:
 the temprature and the unit 
 after these 2 you need to enter what you need to convert like whether to **Celsius (C)**, **Fahrenheit (F)**, and **Kelvin (K)** like this .
